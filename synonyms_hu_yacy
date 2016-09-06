@@ -5,9 +5,10 @@
 {termékcsalád,család}
 {fut,szalad és rohan}
 {idős,öreg,vén}
-{eszik, zabál}
-{beszél, cseveg, dumál, társalog}
-{énekel, dalol, kornyikál}
-{humoros, vicces, tréfás, mókás, mulatságos, kacagtató, mulattató, poénos, szórakoztató, komikus}
-{szakma, hivatás, állás, mesterség, foglalkozás, pálya}
-
+{eszik,zabál}
+{beszél,cseveg,dumál,társalog}
+{énekel,dalol,kornyikál}
+{humoros,vicces,tréfás,mókás,mulatságos,kacagtató,mulattató,poénos,szórakoztató,komikus}
+{szakma,hivatás,állás,mesterség,foglalkozás,pálya}
+{jegyzék,lajstrom,felsorolás}
+{irodalom,literatúra}
