@@ -5,8 +5,16 @@ Dictionaries of synonyms for different languages
 
 The list of files:
 
-synonyms_by_yacy - Belarusian language
+synonyms_bg_yacy - Bulgarian
 
-synonyms_es_yacy - Spanish language
+synonyms_br_yacy - Brazilian
 
-synonyms_ua_yacy - Ukrainian language
+synonyms_by_yacy - Belarusian
+
+synonyms_es_yacy - Spanish
+
+synonyms_fi_yacy - Finnish
+
+synonyms_pl_yacy - Polish
+
+synonyms_ua_yacy - Ukrainian
