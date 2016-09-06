@@ -17,6 +17,8 @@ synonyms_es_yacy - Spanish
 
 synonyms_fi_yacy - Finnish
 
+synonyms_hu_yacy- Hungarian
+
 synonyms_pl_yacy - Polish
 
 synonyms_ua_yacy - Ukrainian
