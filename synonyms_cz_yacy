@@ -1,0 +1,855 @@
+{prosinec,Prosinec}
+{a,i,ale}
+{abchazština,abcházština}
+{Aeronomie,fyzika atmosféry}
+{ahoj,nazdar,cau}
+{akceptovat,prijmout,prijímat}
+{akordeon,harmonika}
+{aktivita,cinnost}
+{alkalické,prvky skupiny I}
+{analýza biologická,biologická analýza}
+{analýza mikrobiologická,mikrobiologická analýza}
+{antagonismus,antagonizmus}
+{aplikovat,použít,používat}
+{arabský,arabština}
+{Arktický oceán,Severní ledový oceán}
+{arménský,arménština}
+{Atlantický oceán,Atlantik}
+{aukce,dražba}
+{autorizace,oprávnení,pravomoc,autorita,zmocnení}
+{Ázerbájdžánština,Azeri,ázerbájdžánština}
+{backora,pantofle}
+{balení,svazek,balík}
+{Baskictina,baskictina}
+{bát se,obávat se}
+{bdelý,probuzený}
+{beloruský,beloruština}
+{bežný,obvyklý}
+{bezpecný,nerizikový}
+{bezprostredne,hned,okamžite}
+{bojovat,rvát se,zápasit}
+{brambor,brambora}
+{brecet,plakat}
+{bretonský,bretonština}
+{brutální,krutý,barbarský}
+{budoucí,príští}
+{budovat,stavet,konstruovat,zkonstruovat,vybudovat,postavit}
+{bulharský,bulharština}
+{bydlište,príbytek,obydlí}
+{být v cele,vést}
+{bývalý,minulý,predešlý}
+{casný,raný}
+{casopis,magazín}
+{celkový,úplný}
+{centrum,stred,prostredek}
+{cerpadlo,pumpa}
+{cerpat,pumpovat}
+{cerstvý,nový,sveží}
+{cervený,rudý,šarlatový}
+{Cesko,Ceská Republik}
+{cestující,pasažér}
+{cetný,castý}
+{chápat,rozumet,porozumet,pochopit}
+{charvátština,chorvatština}
+{chirurgický zákrok,operace}
+{chlad,zima}
+{chléb,chleba}
+{chlup,vlas}
+{chodit,jet,pohybovat se,cestovat}
+{choroba prenosná ze zvírete na cloveka,zoonóza}
+{chránit,spasit,ušetrit,zachránit,zachranovat}
+{chudý,nemajetný}
+{chvení,tres}
+{chybný,mylný,nesprávný}
+{chybný,nesprávný}
+{chytit,chytat,lapit}
+{cin,skutek}
+{císt,precíst}
+{citovat,uvádet,uvést}
+{clánek,Galvanický clánek}
+{clovek,jedinec,osoba}
+{cvicit,školit,trénovat,vycvicit,vyškolit}
+{dagestán,Dagestán}
+{dánský,dánština}
+{daný,stanovený}
+{dárek,dar}
+{dávat,dát}
+{dedecek,deda}
+{delikátní,nežný,jemný}
+{demokracie,republika}
+{dešte kyselé,kyselý déšt}
+{destrukce,znicení}
+{devce,dívka}
+{dietní,nízkokalorický}
+{díl,podíl,cást}
+{díra,otvor}
+{disciplína,obor}
+{diskutovat,debatovat,hovorit}
+{disponibilní,použitelný,prístupný,dostupný}
+{díte,miminko,nemluvne,kojenec}
+{dívat se,dívat,koukat}
+{dívka,devce,holka,slecna}
+{dobrý,dobrá}
+{dokazovat,prokázat,dokázat}
+{dokoncit,ukoncit,skoncit}
+{doktor,lékar}
+{domácnost,rodina}
+{domnívat se,predpokládat}
+{domov,bydlište}
+{doopravdy,opravdu,vskutku}
+{dopad na životní prostredí,vliv na prostredí životní}
+{doprava,preprava}
+{dorazit,prijet,prijít,pricestovat,priletet,dojet}
+{dosah,rámec}
+{dosahovat,dosáhnout}
+{dosahovat,dosáhnout,docílit}
+{doslovne,presne}
+{dovolená,prázdniny}
+{dovolit,povolit}
+{drahoušek,milácek}
+{drobný,malý}
+{drsný,hrubý}
+{druh,typ}
+{druh,znacka,model,typ}
+{druhá mocnina,kvadrát}
+{druhý,jiný,odlišný}
+{družstvo,tým,mužstvo}
+{duležitý,významný}
+{dychtit,toužit,chtít}
+{dýmat,kourit}
+{ekosystém arktický,arktický ekosystém}
+{elevátor,výtah}
+{Epifanie,Slavnost Zjevení Páne,svátek Trí králu}
+{erupce,výbuch}
+{estonský,estonština}
+{evoluce,vývoj}
+{existence,bytí}
+{faktura,úcet}
+{fakturovat,úctovat,naúctovat}
+{farma,statek}
+{fáza,stupen,fáze}
+{financování verejné,verejné financování}
+{formulár,tiskopis}
+{fosilie,zkamenelina}
+{fotoaparát,foták}
+{francouzský,francouzština}
+{frísky,fríština}
+{Fudži,Hora Fudži}
+{fungování,chod}
+{funkce,úcel}
+{galicijský,galicijština}
+{geografie ekonomická,ekonomická geografie}
+{hácek,hák}
+{hádat se,prít se}
+{hala,vestibul,predsín,foyer}
+{házet,hodit}
+{Héraklés,Hercules}
+{hezký,pekný,príjemný,milý}
+{hindský,hindština}
+{hlasitý,hlucný}
+{hlavní,podstatný}
+{hlídka,strážce}
+{hloupý,pošetilý}
+{hmota,látka}
+{hodne,mnoho}
+{hodnota,cena}
+{hodnotit,ohodnotit,známkovat}
+{horký,teplý}
+{hospodárný,sporivý,šetrný,úsporný,ekonomický}
+{hospodárství,ekonomika}
+{hovorit,mluvit,ríkat,promluvit}
+{hreb,hrebík}
+{hrejivý,teplý}
+{hromadné sdelovací prostredky,masmédia}
+{hrudník,hrud}
+{hul,klacek,tyc}
+{hyperonymum,nadrazené výrazy}
+{hyponymum,podrazené výrazy}
+{imitovaný,falešný}
+{in situ,na míste,in situ}
+{industriální,prumyslový}
+{informace,data}
+{ingvistika,lingvistika,jazykoveda}
+{instruktor,cvicitel,ucitel}
+{inteligentní,rozumný}
+{internacionální,mezinárodní}
+{Internet,internet}
+{islandský,islandština}
+{italský,italcina,italština}
+{jabko,jablko}
+{Jaderské more,Jadran}
+{japonský,japonština}
+{jasne,zrejme}
+{jasný,zretelný}
+{jazyk,rec}
+{jecet,vykriknout,kricet,rvát}
+{jedinec,clovek,osoba}
+{jednat,chovat se}
+{jednat,cinit}
+{jednotlivý,samotný,jediný}
+{jednou,jedenkrát,kdysi}
+{jehlice,jehla}
+{jestli,když,kdyby,jestliže,-li}
+{jestli,zdali}
+{jídelní lístek,menu}
+{jídlo,pokrm}
+{jiný,odlišný,zvláštní}
+{jiste,urcite}
+{jízda,cesta}
+{jízdní kolo,bicykl}
+{jméno,název}
+{kabát,bunda}
+{kapalina,tekutina}
+{kapalný,tekutý}
+{kapitulovat,vzdát se}
+{karfiol,kveták}
+{kartác,štetec,kartácek}
+{katalánsky,katalánština}
+{kdykoli,kdykoliv,vždycky}
+{khmerský,khmerština}
+{kino,biograf}
+{kladívko,kladivo}
+{klíh,lep,lepidlo}
+{klitoris,poštevácek}
+{kluk,chlapec,hoch}
+{kolej,kolejnice}
+{komár,moskyt}
+{komise,výbor}
+{kompletní,dokonalý}
+{komunita,obec}
+{koncit,skoncit}
+{konstrukce,stavba,struktura}
+{kontakt,dotyk,styk}
+{kontrakt,smlouva,úmluva,dohoda}
+{kontrolovat,ovládat,rídit}
+{kopat,kopnout}
+{kopie,opis}
+{kopírovat,zkopírovat}
+{kopnutí,kop}
+{korejský,korejština}
+{kostel,chrám}
+{kotouc,role,svitek}
+{koupit,nakoupit,nakupovat,zakoupit}
+{kour,dým}
+{kousat,kousnout,ukousnout}
+{krabice,bedna}
+{krajina,region,oblast}
+{krásný,hezký}
+{krást,odcizit,ukrást,zcizit}
+{kravata,vázanka}
+{krehký,lámavý}
+{krik,výkrik,volání,pokrik}
+{kritérium,standard,merítko,norma,míra}
+{kruhový,kulatý}
+{kryt,víko,obal}
+{kucharka,kuchar}
+{kuchyne,kuchyn}
+{kurz,školení}
+{kus,díl,podíl,cást}
+{kuže,plet,pokožka}
+{kuže,usen}
+{laciný,levný}
+{lano,provaz}
+{látka stopovací radioaktivní,radioaktivní stopovací látka}
+{látka znackovací,znackovací látka}
+{látka,tkanina,textil}
+{legální,zákonný}
+{lehký,jednoduchý}
+{lékarský,lécebný}
+{lepit,nalepit,prilepit}
+{lepkavý,lepivý}
+{lepší,líp,lépe,lépe}
+{leštit,nablýskat,naleštit,vyleštit}
+{letadlo,letoun,aeroplán}
+{létání,let}
+{létat,letet}
+{líbat,políbit}
+{Lichtenštejnsko,Knížectví Lichtenštejn}
+{limit,hranice,mez}
+{linie,cára}
+{list,listí,listoví,lupen}
+{lodyha,stéblo,stonek}
+{lokální,místní}
+{lotyšský,lotyština}
+{loupat,oloupat}
+{lucerna,svítilna}
+{lužko,postel}
+{mackat,smácknout,zmackat,rozmackat,rozmácknout}
+{madarský,madarština}
+{majetek,vlastnictví}
+{makedonský,makedonština}
+{malý,nepatrný,drobný}
+{Man,Ostrov Man}
+{management,rízení,vedení}
+{manažer,rídící pracovník,reditel,direktor,správce}
+{manželka,žena,chot}
+{masa,hmota}
+{mastný,tucný}
+{materiál,hmota}
+{materiální,hmotný}
+{matice,matka}
+{menstruace,mesícky}
+{merit,zmerit}
+{milenec,kluk}
+{milion,milión}
+{mínit,zamýšlet}
+{minout,netrefit}
+{místnost,pokoj}
+{místo toho,namísto}
+{mistrovství,šampionát,prebor,titul}
+{mít význam,být duležitý}
+{mluva,rec}
+{mobilní telefon,mobil}
+{moc,síla}
+{moc,velmi,velice}
+{moderní,novodobý}
+{monitorování biologické,biologické monitorování}
+{Moteto,moteto}
+{motorové vozidlo,automobil}
+{muž,chlap}
+{muzikant,hudebník}
+{myšlenka,idea,predstava,nápad}
+{myslet,premýšlet}
+{myslit,zamýšlet}
+{nabídnout,nabízet}
+{nachlazení,rýma}
+{nadvláda,prevaha}
+{nadzdvihnout,pozdvihnout,vyzvednout,pozvednout,zvyšovat,vztycit,zdvihat,zvedat}
+{nahlásit,ohlásit,oznámit}
+{nahoru,vzhuru}
+{nahradit,vymenit}
+{nahrazení,substituce,nahrazování,zámena}
+{náklady,výdaje}
+{nakreslit,malovat}
+{nalézt,najít,nalézat}
+{námaha,úsilí,pokus,snaha}
+{námet,téma}
+{namocit,vlhcit}
+{namydlit,mydlit}
+{naplnit,vyplnit}
+{napodobit,napodobovat,imitovat}
+{nápoj,pití}
+{napsat,psát}
+{narídit,prikázat,rozkazovat,rozkázat}
+{narození,porod}
+{narození,zrození}
+{náš,naše}
+{násep,breh}
+{následek,dusledek,konsekvence,výsledek,úcinek,efekt}
+{následující,další}
+{naslouchat,poslouchat}
+{nástroj,instrument,prístroj}
+{naucit se,ucit se}
+{navrhnout,navrhovat}
+{navštívit,navštevovat}
+{nazvat,pojmenovat}
+{NDR,Nemecká demokratická republika}
+{nebezpecí,riziko}
+{nechat,zanechat}
+{nechávat,nechat}
+{nedaleký,blízký}
+{nehlucný,tichý}
+{nejaký,nekterý,jakýkoli,libovolný}
+{nejprve,predevším}
+{nemoc,onemocnení}
+{nemocnice,ošetrovna}
+{neocekávaný,nenadálý,náhlý}
+{nepálský,nepálština}
+{nepatrný,malický}
+{nepoddajný,neohebný,pevný,tuhý}
+{nesprávný,chybný}
+{nést,nosit}
+{nevyhnutelný,potrebný,nezbytný,nutný}
+{neženatý,svobodný}
+{nicemný,podlý,zlý}
+{nicméne,prestože}
+{nosit,mít na sobe}
+{nosit,nést}
+{novina,zprávy}
+{nula,nic}
+{nynejší,prítomný,soucasný}
+{nyní,práve,ted}
+{obcas,nekdy}
+{obchod,krám}
+{obchod,povolání}
+{období,doba}
+{obe,oba}
+{obelstít,podvést,napálit,ošálit,oklamat}
+{objasnit,vysvetlit,vysvetlovat}
+{objev,objevení}
+{oblak,mrak}
+{obrátit,otocit}
+{obraz,malba}
+{obraz,obrázek}
+{obsahovat,zahrnovat}
+{obsluha,služba,servis}
+{obsluhovat,ovládat}
+{obušek,kyj}
+{obveselení,zábava}
+{obvinit,obžalovat,vinit}
+{obyvatelstvo,populace}
+{obzvlášte,obzvlášt,predevším,zejména,zvlášte,zvlášt,mimorádne,nezvykle}
+{ocas,ohon,chvost}
+{ochutit,okorenit,korenit}
+{ochutnávat,ochutnat,okusit}
+{od koho,komu}
+{odbor,oddelení,sekce}
+{odbourávání biologické,biodegradace}
+{oddelení,divize,oddíl}
+{oddíl,oddelení,sekce,úsek}
+{odejít,opustit}
+{odeslat,poslat,zaslat,posílat,zasílat,vyslat}
+{odev,oblecení,šaty}
+{odhadovat,odhadnout}
+{odlišný,rozdílný,ruzný}
+{odpocinek,oddech}
+{odpovídat si,shodovat se}
+{odpovídat,odpovedet,reagovat}
+{odrazit,odrážet,zrcadlit}
+{odstranit,odstranovat,vyjmout}
+{ohlásit,oznámit,oznamovat}
+{ohodnotit,ocenit}
+{ohyzdný,ošklivý,šeredný,škaredý}
+{okamžik,chvíle,moment}
+{okamžik,moment}
+{okolí,prostredí,životní prostredí}
+{omezit,limitovat,omezovat}
+{opacný,protejší,protilehlý}
+{opet,znovu,zase}
+{opoždený,zpoždený}
+{opravdový,skutecný,pravý}
+{orat,zorat}
+{originální,puvodní}
+{ornament,dekorace,výzdoba,ozdoba}
+{ošetrit,lécit}
+{ošetrovatelka,zdravotní sestra}
+{osobnost,charakter}
+{osolit,solit}
+{osvobozovat,vysvobodit,osvobodit}
+{otázka,dotaz}
+{otestovat,testovat,vyzkoušet}
+{otevrít,otvírat}
+{ovoce,plod}
+{oženit se,provdat se,ženit se,vdát se}
+{páchnout,smrdet}
+{padat,padnout,spadnout,upadnout}
+{pahorek,kopec}
+{pak,potom}
+{panelák,panelový dum}
+{paradigma,prototyp,vzor}
+{patro,podlaží,poschodí}
+{pauza,prestávka,prerušení}
+{paže,ruka}
+{péro,pírko,perí,pero}
+{pevnina,souš,zem}
+{pevný,tuhý}
+{Phobos,Fobos}
+{písen,písnicka}
+{plamen,ohen}
+{platit,zaplatit}
+{plechovka,konzerva}
+{pocátecní,úvodní}
+{pochybnost,nejistota,pochyba}
+{pocínat,zacínat,zahájit,zacít,pocít}
+{pocitovat,pocítit}
+{poctár,pocítac,kalkulátor}
+{poctivý,cestný}
+{poddaný,podrízený}
+{podlaha,zem}
+{podnik,firma}
+{podnikatelka,obchodnice}
+{podoba,tvar}
+{podpora,opora}
+{podrobnost,detail}
+{podstata,esence,základ,jádro}
+{podzemní dráha,metro}
+{pohorí,hora}
+{pohybovat,pohnout}
+{pokládat,umístit,položit}
+{pokracovat,vytrvat}
+{pole,lán}
+{polibek,pusa,políbení}
+{politováníhodný,žalostný,nebohý,ubohý}
+{polovice,polovicka,polovina,pulka}
+{pomáhat,asistovat,napomáhat,pomoci}
+{pomoc,asistence,výpomoc,podpora}
+{pondelek,pondelí}
+{ponevadž,protože,nebot}
+{popisovat,vylícit,popsat}
+{porád,vždy}
+{porovnání,srovnání}
+{porovnat,porovnávat,srovnat,srovnávat}
+{portugalský,portugalština}
+{poškodit,ublížit,poranit,zranit}
+{poskytovat,poskytnout,zásobovat,obstarat,dodávat,opatrit,vybavit,zásobit}
+{poslední vule,závet}
+{poslední,minulý}
+{postihnout,ovlivnovat,zasáhnout,ovlivnit}
+{poštovné,poštovní známka}
+{potkávat,potkat,setkávat se,setkat se,sejít se}
+{potravina,potrava,živina,pokrm,jídlo}
+{potrebovat,vyžadovat,požadovat,žádat}
+{pouze,jen}
+{považovat,pokládat za,videt}
+{požadavek,nárok}
+{požadavek,žádost,prosba}
+{pozdeji,poté}
+{prach,prášek}
+{pracovat,fungovat}
+{pracovník,pracující}
+{praktikovat,provádet}
+{pramen,zdroj,puvod}
+{prasklina,šterbina,trhlina,puklina}
+{praštit,uhodit,uderit}
+{prát si,toužit}
+{pravdive,skutecne}
+{pravdomluvný,pravdivý}
+{pravý,pravdivý}
+{predejít,zabránit,zamezit}
+{predek,prední strana}
+{predmet,vec}
+{predstavovat,predstavit,uvádet,uvést}
+{prehyb,ohyb}
+{prekládání,překlad}
+{prekrocit,prekonat}
+{prestávka,pauza}
+{prichystat,pripravit}
+{prícina,duvod}
+{pridat,pridávat}
+{prídavek,dodatek}
+{prídavné jméno,adjektivum}
+{prihodit se,nastat}
+{prijmout,obdržet,dostat}
+{príkaz,rozkaz,povel}
+{príkrý,strmý}
+{príležitost,šance}
+{prímý,rovný}
+{prinášet,prinést}
+{pripocíst,secítat,secíst,scítat}
+{pripojit,spojit}
+{prípojka,konektor}
+{pripouštet,pripustit,priznat,priznávat,uznat}
+{prítel,kamarád,prítelkyne,kamarádka}
+{problém,potíž}
+{procedura,pochod,postup,proces}
+{prodávat,prodat}
+{prodej,odbyt}
+{produkovat,vyrábet,vyrobit,vytváret,vytvorit,zhotovit}
+{profesionál,odborník}
+{proklamace,prohlášení,oznámení}
+{promena,transformace,zmena,premena,zámena,výmena}
+{prominout,odpustit}
+{propagace,reklama,inzerát}
+{prospívat,prospet}
+{prostor,plocha}
+{protiklad,opak}
+{proto,tedy}
+{prozradit,odkrýt,odhalit}
+{pružina,péro}
+{prvek,element}
+{publikovat,vydat}
+{pysk,ret}
+{pytel,vak,taška}
+{rada,koncil}
+{radio,rozhlas}
+{rajské jablícko,rajce}
+{rámecek,rámec}
+{rána,úder}
+{ráno,jitro,dopoledne}
+{recký,rectina}
+{redukovat,zmenšit,omezit,snížit}
+{regenerace prirozená,prirozená regenerace}
+{region biogeografický,biogeografický region}
+{relace,vztah}
+{reprezentovat,predstavovat,symbolizovat,zastupovat}
+{respektovat,uznávat,ctít}
+{rezat,uríznout,ríznout}
+{ríci,ríkat,povedet,povídat}
+{rival,souper,protivník,konkurent,sok}
+{rocní období,sezóna,sezona}
+{rocník,trída}
+{rostlina krytosemenná,rostlina kvetoucí}
+{rovnež,také,též}
+{rovnobežný,paralelní,soubežný}
+{rovný,plochý}
+{rovný,stejný}
+{rozbít,zlomit}
+{rozbitý,zlomený}
+{rozhnevaný,rozzlobený}
+{rozhodovat,rozhodnout}
+{rozhovor,interview}
+{rozmackání,rozdrcení}
+{rozmanitost,pestrost,ruznost}
+{rozmanitý,ruznorodý,rozdílný,ruzný}
+{rozmer,velikost}
+{roztríštit,rozštepit,rozdelit}
+{rozumet,chápat}
+{rumunský,rumunština}
+{ruský,ruština}
+{sacharid,uhlohydrát,cukr}
+{šálek,hrnecek,hrnek}
+{sám,samotný}
+{samec,muž}
+{samo,samo sebe}
+{samohláska,vokála,vokál}
+{samoobsluha,supermarket}
+{samostatný,separátní,oddelený}
+{schválení,souhlas}
+{sdílet,mít spolecné}
+{segmentace,rozdelení}
+{seskupení,skupina}
+{setkání,schuzka}
+{show,prehlídka,predstavení}
+{signalizovat,naznacovat,indikovat,oznacovat,ukazovat,naznacit,oznacit,ukázat}
+{silnice,cesta}
+{silný,úcinný}
+{šít,stehovat,sešít}
+{situace,stav}
+{skákat,skocit}
+{sklenice,sklenicka,sklenka}
+{sklon,spád}
+{skoro,témer}
+{skutecne,opravdu}
+{skvelý,bájecný,senzacní}
+{skvost,klenot,šperk,drahokam,drahý kámen}
+{sladit,osladit}
+{sledovat,pozorovat,dívat se}
+{slovenský,Slovenština,slovenština}
+{slovník,lexikon}
+{služebník,sluha}
+{slyšet,uslyšet,naslouchat,poslouchat}
+{smlouva,kontrakt}
+{snežit,chumelit}
+{sníst,jíst}
+{sociální,spolecenský}
+{soubor,sada,set,souprava}
+{soucasný,obvyklý,bežný}
+{soucást,kousek,kus,díl}
+{soucet,suma}
+{sousední,další}
+{špinavý,znecištený,necistý}
+{spíše,radeji}
+{Spojené království Velké Británie a Severního Irska,Spojené království}
+{spolecne,spolu}
+{spolecnost,sdružení,spolek,klub,cech}
+{spor,kontroverze}
+{správný,korektní}
+{spravovat,rídit,vést}
+{stanovisko,názor}
+{starat se,pecovat}
+{stárí,vek}
+{štastný,mající štestí}
+{štastný,veselý}
+{státní jazyk,úrední jazyk}
+{státní prevrat,puc,prevrat}
+{stavba,budova,dum}
+{stena,zed}
+{stisknout,stlacit}
+{stížnost,obžaloba}
+{stolek,stul}
+{stoupání,vzestup}
+{strana politická,strana}
+{strední hodnota,prumer}
+{strevíc,bota,obuv}
+{strkat,tlacit,strcit}
+{student,žák}
+{svatba,snatek}
+{svaz,unie,sdružení}
+{švédský,švédština}
+{svetlý,jasný}
+{svíèka,svícka}
+{svine,prase,vepr}
+{svobodný,volný}
+{systém,soustava}
+{tahat,táhnout,vytahovat}
+{takový,takové}
+{tam,tamhle}
+{tamilský,tamilština}
+{tancit,tancovat}
+{tarif,sazba}
+{tecka,bod}
+{ted,nyní}
+{tekutina,kapalina}
+{telefonát,volání}
+{telefonovat,volat}
+{telesný,fyzický}
+{teluguský,telugština}
+{témer,skoro}
+{ten,ta,tenhle,tuto}
+{ten,ta,to}
+{tendence,trend}
+{težký,obtížný,nesnadný}
+{thajský,thajština}
+{titulek,nadpis}
+{tlacítko,klávesa}
+{tlacítko,knoflík}
+{tlustý,silný}
+{tok,proud,proudení}
+{topurko,držadlo}
+{továrna,závod}
+{trestný cin,zlocin,trestná cinnost}
+{trídit,klasifikovat,seradit,usporádat,roztrídit}
+{trouba,pec}
+{trpký,horký}
+{trubka,roura,potrubí}
+{truhla,truhlice}
+{trup,telo}
+{turecký,turectina}
+{tvár,oblicej}
+{tvorit,vytváret,vytvorit}
+{tvuj,tvé,vaše,váš}
+{tyto,tyhle}
+{udržet,udržovat,zachovat}
+{ukázat,demonstrovat,predvést,prezentovat}
+{úkol,projekt}
+{ukrajinský,ukrajincina,ukrajinština}
+{úloha,práce,úkol}
+{úmrtí,smrt}
+{úmrtní,smrt}
+{úmysl,vule}
+{umýt,vyprat,prát}
+{únavný,nudný}
+{upír,vampýr}
+{uplynulý,minulý}
+{uprostred,mezi}
+{úrad provincní regionální,úrad provincní,úrad regionální}
+{úroven,stupen,hladina}
+{USA,Spojené státy americké}
+{úskok,trik,lest}
+{usmívat se,smát se,smát}
+{usmrtit,zabít,zabíjet}
+{usporádání,organizace}
+{usporit,šetrit}
+{ústa,pusa}
+{uvarit,pripravit}
+{uvažovat,logicky myslet}
+{uvést,predstavit}
+{užití,upotrebení,užívání,využití}
+{užívat,vychutnat,tešit se z}
+{úzký,slabý}
+{vedomosti,znalosti}
+{vedoucí,šéf}
+{veliký,velký}
+{velkomesto,metropole}
+{velký,veliký,rozsáhlý,objemný}
+{velryba,Cetacea}
+{velšský,velština}
+{venku,mimo,vne}
+{verejnost,lid}
+{vést,zavést}
+{veterinář,zvìrolékař}
+{vietnamský,vietnamština}
+{View lemma information,krocan}
+{víkend,konec týdne}
+{vítezství,výhra}
+{vlastník,držitel,majitel}
+{vlhkost,vláha}
+{vlhký,mokrý}
+{voják,vojín}
+{vojsko,armáda}
+{volba,výber}
+{volby,volba}
+{volit,zvolit,vybrat,vybírat}
+{vpredu,pred}
+{vrácení se,návrat}
+{vrchol,vrcholek}
+{vrh,hod}
+{vše,všechno}
+{všeobecný,obecný}
+{vstávat,vstát}
+{vstupenka,jízdenka,lístek}
+{vstupovat,vniknout,vstoupit,vkrocit,vejít}
+{vterina,sekunda}
+{vudce,vedoucí}
+{vune,zápach,aroma}
+{vycistit,ocistit}
+{vycítit,cítit,hmatat}
+{vyckávat,pockat,cekat}
+{výdelek,príjem}
+{vydržet,vystacit}
+{vyhnout se,vyhýbat se}
+{vyhodit,dát výpoved,propustit}
+{vynalezení,vynález,výmysl}
+{výpoved,tvrzení}
+{vyrovnaný,rovný}
+{vyrustat,narustat}
+{vyschnout,uschnout,oschnout,osušit}
+{vyšetrování,šetrení}
+{vystrelit,strílet}
+{vysušit,usušit}
+{výtecný,prvotrídní,bezvadný,výborný,skvelý,vynikající}
+{výtežek,profit,zisk}
+{vyucovat,ucit}
+{vyvíjet,vyvinout}
+{významný,duležitý}
+{vzdálený,daleký}
+{vzdelávání,ucení,pedagogie,školství,pedagogika,vzdelání,výuka,vyucování}
+{vzdelávání,výcvik}
+{vzduch,ovzduší}
+{vzpomenout,vzpomenout si}
+{vzrustat,zvetšovat se,pribývat}
+{wallonský,wallonština}
+{z druhé ruky,použitý}
+{zabarvení,barva}
+{zacátek,pocátek}
+{záchod,WC,toaleta}
+{záda,hrbet}
+{žádat,požadovat}
+{zahrát,ohrát}
+{zahrnovat,obsahovat}
+{zákazník,klient,odberatel}
+{základna,podklad,báze}
+{zakrivení,ohyb}
+{zákusek,kolác}
+{zakusit,vytrpet,utrpet}
+{záležitost,vec}
+{zameškat,zmeškat,propást}
+{zamestnanci,personál,štáb}
+{zamestnání,práce}
+{zamknout,zamykat}
+{zanedbat,zanedbávat,selhat,zklamat}
+{zápalka,sirka}
+{zapomenout,zapomínat}
+{žár,horko,vysoká teplota}
+{zásuvka,šuplík}
+{zaútocit,útocit,napadnout}
+{záver,rozhodnutí,úsudek,usnesení}
+{záves,opona,záclona}
+{zavírat,zavrít}
+{zbran,pistole}
+{zdanení,dan}
+{zdokonalit,zušlechtit,zlepšovat,vylepšit,zlepšit}
+{zdolat,porazit}
+{zemedelské stroje,zemedelské zarízení}
+{zemina,puda}
+{ženatý,vdaná}
+{zeptat,ptát}
+{židovství,judaismus}
+{získat,dostat}
+{zítrek,zítra}
+{živý,žijící}
+{zjevne,zrejme}
+{zkoumání,bádání,výzkum}
+{zkoušet,zkusit}
+{zkušený,obratný,zrucný,zbehlý}
+{zlatý,zlatavý}
+{žlutý,žloutkove žlutý}
+{znacka,znak}
+{znát,vedet}
+{zpevák,pevec}
+{zpracovat,zpracovávat}
+{zpusob,postup}
+{zranit,poranit}
+{zrídlo,pramen,zdroj}
+{zrucnost,dovednost}
+{ztratit,ztrácet}
+{žurnalista,novinár}
+{zustatek,reziduum,zbytek}
+{zustávat,zustat}
+{zvíre,živocich,stvorení,bytost,tvor}
+{zvítezit,vyhrát}
+{zvládnout,vyporádat se}
+{zvláštní,divný,neobvyklý}
+{zvon,zvonek}
+{zvuk,tón}
+{}
