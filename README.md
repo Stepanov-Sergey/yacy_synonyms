@@ -11,6 +11,8 @@ synonyms_br_yacy - Brazilian
 
 synonyms_by_yacy - Belarusian
 
+synonyms_by_yacy - Czech
+
 synonyms_es_yacy - Spanish
 
 synonyms_fi_yacy - Finnish
