@@ -1,0 +1,341 @@
+{hoito, hallinto, johtaminen, käsittely}
+{politiikka, menettelytapa, ohjelma}
+{Aigeianmeri, Egeanmeri}
+{armenialainen, armenia}
+{elokuu, kylvökuu, mätäkuu}
+{Bosnia ja Hertsegovina, Bosnia-Hertsegovina}
+{joulukuusi, joulupuu}
+{Kööpenhamina, Köpis}
+{Tšekki, Tšekin tasavalta}
+{joulukuu, talvikuu}
+{Kongon demokraattinen tasavalta, Kinshasan Kongo, Kongo-Kinshasa}
+{Suomi, Suomen Tasavalta}
+{suomen kieli, suomi}
+{DDR, Saksan demokraattinen tasavalta}
+{saksa, saksan kieli}
+{Guyana, Guyanan kooperatiivinen tasavalta}
+{hanukka, Hanukka}
+{Herkules, Herakles}
+{Hollanti, Alankomaat}
+{Jakarta, Indonesia}
+{kesäkuu, suvikuu}
+{Markovin ketju, Markov-ketju}
+{hyvää joulua, hauskaa joulua}
+{portugalilainen, portugali}
+{Etelä-Afrikka, Etelä-Afrikan tasavalta}
+{Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta, Yhdistynyt kuningaskunta}
+{Amerikan Yhdysvallat, Yhdysvallat}
+{vietnamin, vietnam}
+{liittymätie, sisääntulotie}
+{akku, varaaja}
+{asiakirjat, lait, teot, toimenpiteet}
+{liima, liima-aine, liima-aine}
+{adsorptio, pintaan pidättyminen, pintaan pidätys}
+{ennakko, förskotti}
+{ilmoitus, mainos}
+{maanviljelyskoneisto, maatalousvälineistö}
+{maataloustuotannon aliarvostus, maatalousmaan aliarvostus}
+{maatilamatkailu, maatilamatkailu}
+{ilman liikkeet, ilmakuljetus}
+{suuntaus, suora linja, suora linja}
+{emäksiset, ryhmän I alkuaineet}
+{lähes, melkein}
+{ammoniakkiutuminen, ammonifikaatio}
+{vastaava, analoginen}
+{koppisiemeniset l. hedelmäkasvit, kukkivat kasvit}
+{antibiootti, antibioottinen}
+{omena, omenapuu}
+{vesiviljely, kalanviljely}
+{aseistautuminen, varustelu}
+{adaptoida, mukauttaa}
+{analyysi, määritys, koe, määritys}
+{tehtävä, toimi}
+{lupa, valtuutus}
+{lumivyöry, maavyöry, kivivyöry, maavyöry, kivivyöry}
+{varastaa, ryövätä}
+{kate, saldo, tase}
+{matalikko, rantapenger}
+{patoaminen, särkkäkalastus, pankkitoiminta}
+{merenlahti, laakeripuu, laakso, lahti}
+{vuode, peti, sänky}
+{kalja, olut}
+{välissä, keskellä}
+{valkaisusavi, valkaisumaa, valkaisusavi}
+{kirja, rahkasuo}
+{kasvitiede, botaniikka}
+{aamiainen, aamupala}
+{hyperonyymi, laajempia termejä, yläkäsite}
+{uros, sonni, härkä}
+{häpykieli, klitoris}
+{johto, kaapeli, johto, vaijeri, kaapeli, vaijeri}
+{karbonaatti, saturoida}
+{katapultti, heittokone}
+{kationi, positiivisesti varautunut ioni, kationi}
+{elementti, kenno, komero}
+{tuoli, istuin}
+{alkuaineet, alkuaine}
+{kana, kukko}
+{klorofylli, lehtivihreä}
+{korologia, floristinen korologia}
+{tupakka, savuke}
+{kallio, rantatörmä, rantatörmä}
+{rannikko, ranta}
+{rannikkomeri, rantavesi}
+{torakat, torakka}
+{kolikko, lantti, myntti}
+{korvaus, hyvitys, hyvitys}
+{kemiallinen yhdiste, yhdiste}
+{rikastus, väkevöinti}
+{johtavuus, sähkönjohtavuus, johtavuus}
+{jatkokoulutus, aikuiskoulutus}
+{päällyste, peite, kuori, peite, päällyste, kuori}
+{lahdeke, luonnon valkama, puro, lahdeke, luonnon valkama, poukama}
+{kulttuuri, sivistys}
+{kuivatus padon avulla, padon kuivatus}
+{kuuro, kuulovammainen}
+{puhdistus, sterilointi, kaasun poisto, puhdistus, kaasun poisto}
+{asetus, määräys, asetus, päätös, tuomioistuinratkaisu, päätös, määräys, tuomioistuinratkaisu}
+{avomeri, suuret syvänteet, suuret syvänteet}
+{avomerikalastus, syvänmerenkalastus}
+{peura, metsäkauris, peura}
+{syytetty, vastaaja}
+{dendrokronologia, vuosirengasajoitus}
+{saostuma, kerrostuma, laskeuma}
+{aavikko, autiomaa}
+{aavikkosirkka, aavikkoheinäsirkka, aavikkosirkka}
+{pelottelu, pelote, estoaine}
+{estoaine, pelote}
+{palautuminen, siirtyminen, seuraanto}
+{ripuli, löysä maha}
+{mädätys, syövyttävä liuotus}
+{liuotus, liukeneminen, purkaminen}
+{alue, pinta-ala, pinta-ala}
+{opinkappale, oppi}
+{talouspolttoöljy, paloöljytisle, talouspolttoöljy}
+{annos, annostus}
+{annos, annostaa}
+{ojaverkosto, kuivatusjärjestelmä}
+{kuivatusvesi, hulevesi}
+{konekaivu, ruoppaus, ruoppausjäte}
+{mekko, leninki}
+{poraus, rivikylvö, rivilannoitus}
+{kemiallinen pesu, kuivapesu, kuivarikastus}
+{oja, pato, pato}
+{lievennys, rasite, nautintaoikeus, vaja}
+{kansantalous, taloustiede, taloselämä, taloustiede}
+{talous, säästäväisyys, säästäväisyys}
+{jätevesi, laskujoki, normaalipäästö, laskujoki, normaalipäästö}
+{ryhmän II alkuaineet, alkaliset maametallit}
+{halogeeni, ryhmän VII alkuaineet}
+{ammatti, työ}
+{pakkotoimenpiteet, toimeenpano, pakkotoimenpiteet}
+{rakentaminen, tekniikka, rakentaminen, koneoppi, tekniikka, koneoppi}
+{ympäristölausunto, ympäristöauditointi}
+{maankaivaminen, maarakennus}
+{asettaa näytteille, antaa lääkettä}
+{tutkimus, tunnustelu, etsintä}
+{räjähdys, männän työtahti, räjähdys}
+{räjähtävä, räjähdysaine}
+{laskeuma, kertymä, kertymä}
+{aapasuo, letto, mutasuo}
+{filmi, ohut kalvo}
+{raha-asiat, valtionvarat}
+{palokuntalainen, palomies}
+{polttaminen, kuumentaminen, ampuminen}
+{varusteet, kiinteä varustus, kiinteä varustus}
+{loimuava, käyristyvä}
+{hiutaloittamisaine, höytelöittämisaine}
+{vaahdotus, flotaatio}
+{virta, läpivirtaus, vuoksi}
+{fluidistorijärjestelmä, fluidistoritekniikka}
+{juoksevaksi tekeminen, pyörrekerrostus}
+{pyörresintrauskylpy, leijukuivatin, leijukerros}
+{huuhtelu, huuhtelupuhdistus, huuhtelupuhdistus}
+{vaahdotusaine, solustusaine}
+{polku, jalankulkutie, jalankulkutie}
+{kahluupaikka, kahlaamo, kahlauspaikka}
+{ulkomainen, vierasmaalainen}
+{metsävarat, metsänsuojelualue, metsänsuojelualue}
+{kaivo, lähde, kaivo}
+{neljä, nelonen}
+{makea, suolaton vesi, makea vesi}
+{pakkanen, kuura, huurre}
+{höyry, savu, höyry, savustaa, savuta, savustaa, savuta}
+{kaasutus, savustus}
+{huonekalut, kalusteet}
+{turkiskauppa, turkikset}
+{kaasun saanti, kaasuvarasto}
+{gasoholi, polttoaineseos, jossa bensiiniin on lisätty alkoholia}
+{geenipooli, populaation geenistö, geenipooli}
+{pinnanmuoto-oppi, geomorfologia}
+{alkio, itu, itiö, alkio, mikrobi, itu, itiö, mikrobi}
+{kuvernööri, päällikkö}
+{jyvä, vilja, rae, vilja, rae}
+{pojanpoika, tyttärenpoika}
+{hiominen, jauhaminen}
+{meren lahti, suuri malmikerros, merenlahti}
+{parturi, kampaaja}
+{auer, sumentaa, auer}
+{asutus, asutuskeskus}
+{hydrografia, merenkartoitus}
+{alakäsite, hyponyymi, suppeampia termejä}
+{jäätelö, jätski}
+{immissio, immissiovahinko}
+{immuniteetti, koskemattomuus, immuniteetti}
+{osoitin, mittari, ilmaisin}
+{teollisuusliitto, elinkeinoyhdistys}
+{elinkeinoelämän kehitys, teollisuusrakennus}
+{suotautuminen, imeytyminen}
+{sisäänvirtaus, tulva, sisäänvirtaus}
+{informaatio, tieto}
+{tietojenkäsittelyoppi, informatiikka, tietojenkäsittelyoppi}
+{tarkastuspalvelu, valvontapalvelu}
+{soitin, instrumentti}
+{päihtymys, rohdoksen aiheuttama myrkytys}
+{tavaraluettelo, varasto, kokonaismäärä}
+{säteily, säteilytys, säteilytys}
+{liitos, nivelliitos}
+{toimittaja, journalisti}
+{hevonen, ratsu}
+{työ, työvoima, työ}
+{kaatopaikka, täyttömaa, täyttömaa}
+{havupuun neulanen, lehti}
+{lehtisalaatti, salaatti}
+{sanakirja, sanasto, sanasto}
+{kielitiede, lingvistiikka}
+{huulipuna (, huulipuna}
+{jäte, roskat}
+{rannikko-, rantamaa, litoraalinen, rantamaa, litoraalinen}
+{karjanhoito, karjatalous}
+{kulkusirkka, heinäsirkka}
+{asunto, huoneisto, huoneisto}
+{menetys, tappio, vahinko}
+{ihminen, mies}
+{hoitosopimus, johtamissopimus}
+{toimeksianto, tehtävä, valtakirja, valtuutus}
+{lannoite, lanta, lannoite, lannoittaa, lanta, lannoittaa}
+{merkitsin, leimauskone, ilmaisin}
+{räme, suo}
+{aineensiirto, joukkoliikenne}
+{materiaali, materiaalit, aine}
+{meteori, tähdenlento}
+{metaanintuotto, metanaatio}
+{sumu, usva, sumu, huuru, usva, huuru}
+{muotoilu, suunnittelu, mallintaminen, suunnittelu, muotoilu, mallintaminen}
+{kuu, kuukausi}
+{monumentti, rajapyykki}
+{äiti, äiskä}
+{lieju, loka, muta, lieju, loka}
+{maan kate, viherlannoite, kompostimulta}
+{kaupunki, kunta, kunta}
+{servetti, lautasliina}
+{luonnonkaasu, maakaasu}
+{uudismuodoste, uudissana}
+{uutis-, tiedotuslehti, uutislehti}
+{meluhäiriö, melusaaste}
+{meluemissio, melupäästö}
+{melunvaimennus, kohinanvaimennus}
+{ilmoitus, tiedotus}
+{ilmoitus, tiedotus, ilmoittaminen}
+{taimisto, taimitarha, taimisto}
+{noudattaa, totella}
+{observatorio, havaintoasema}
+{haju, tuoksu, haju, tuoksu}
+{off-site, paikan ulkopuolella}
+{toimisto, työhuone, virka, toimisto, työhuone}
+{oligarquia, oligarkia}
+{ykkönen, yksi}
+{suuseksi, oraaliseksi}
+{orkidea, kämmekkä}
+{järjestys, määräys}
+{ylikuormittaa, irtomaa}
+{otsonointi, otsonoituminen}
+{pakkaaminen, päällys}
+{maalikauppa, maalarin työhuone}
+{palmu, palmupuu}
+{kasvatustiede, pedagogiikka, kasvatusoppi, kasvatustiede}
+{ihminen, henkilö}
+{kiviöljy, raakaöljy, paloöljy, petroli, raakaöljy, petroli, kiviöljy, paloöljy}
+{peittauslaitos, syövytyslaitos}
+{kyyhky, pulu}
+{pizza, pitsa}
+{kasvi, taimet}
+{kasvin osa, laitoksen osa}
+{pistesäteilijä, pistelähde, yksikkölähde}
+{ohjelma, politiikka, menettelytapa, ohjelma, menettelytapa}
+{saastuminen, saaste}
+{lammikko, amme, lammikko}
+{kannanvaihtelu, populaatiodynamiikka}
+{potaska, kaliumhydroksidi}
+{saostaminen, saostuminen, sakka, saostuminen, sakka}
+{sademäärän lisäys, saostumisen lisäys, sademäärän lisäys}
+{säilytysaine, kyllästysaine}
+{puristava, puristaminen, kiireellinen}
+{ käyttövesi, tehdastusvesi}
+{ääntämys, ääntäminen}
+{raketin ajoaine, ponnekaasu}
+{eturauhanen, prostata}
+{suojelualue, rauhoitettu alue, rauhoitettu alue}
+{säteily, säteilyt}
+{sade, vesisade}
+{lyhytaikaiskoestus, pikakoestus}
+{arvo, määrä, noteeraus, aste, vauhti, tahti}
+{järjellisyys, kohtuullisuus}
+{yhdistelmä-DNA-tekniikka, rekombinaatiotekniikka}
+{korjaus, hyvitys, tasoittaa, oikaisu}
+{kaislat, ruo'ot}
+{heijastuma, peilaus}
+{pakopaikka, suojaava saareke, refugio, pakopaikka, suojaava saareke, refugio}
+{tukahduttaminen, hillintä, sorto}
+{jäljennös, uusimistuotanto, jälkipainos}
+{säiliö, allas, tekojärvi, säiliökivilaji}
+{resurssit, voimavarat}
+{katto, ulkokatto, ulkokatto}
+{tie, tielinja, väylä, reitti, tielinja, väylä, reitti}
+{salamanterit, lämmityslaitteet, salamanterit}
+{kuu, tekokuu, kuu, etäis-}
+{kalaparvi, koulu, koulu}
+{jyvä, siemen}
+{erotin, separaattori, eristin}
+{pikku, pieni}
+{silikoni, pii}
+{iho, nahka}
+{kallo, pääkallo}
+{kaivosjäte, kuona, kuona}
+{jäteöljy, muta, lieju. liete, jäteöljy, muta, lieju, liete}
+{neliö, aukio}
+{hedelmättömyys, steriliteetti, steriliteetti}
+{maha, vatsa}
+{uuni, kasvihuone, ilman esikuumennin, kasvihuone, ilman esikuumennin}
+{kohde, aihe, teema}
+{hankinta, tarjonta, toimitus}
+{yllättää, hämmästyttää}
+{makea, makoisa}
+{makeutusaine, vaahdotuskemikaali}
+{syntaksi, lauseoppi}
+{teesi, väite, väitöskirja}
+{kolme, kolmonen}
+{ukkonen, jyrinä, ykkosen jyrinä}
+{lilpirauhanen, kilpirauhanen}
+{kangas, kudos, silkkipaperi}
+{matkailu, turismi}
+{myrkky, toksiini}
+{ammatti, elinkeino, kaupankäynti, kauppa}
+{kaupankäynti, kauppa}
+{juna, opettaa, harjoittaa, opettaa, juna, harjoittaa}
+{trajektoria, liikerata, ammuksen rata}
+{kääntäminen, käännös}
+{voitonmerkki, trofee}
+{torvi, vaskitorvi}
+{kakkonen, kaksi}
+{vanadiini, vanadium, vanadiini}
+{viinitarha, viiniviljelmä}
+{haihtuvuus, epävakaisuus}
+{jäte, jätteet}
+{vedenpinta, vedenkorkeus, vesivaaka}
+{valuma-alue, vedenjakaja, valuma-alue}
+{vaimo, aviovaimo}
+{vamma, haava}
+{laiton teko, epäoikeudenmukainen teko}
+{antaa satoa, sato}
+{eläinoppi, eläintiede, zoologia}
